@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://swift-photo.web.app/sitemap.xml
